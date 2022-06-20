@@ -1,5 +1,3 @@
-#Everything is changing, all at once.
-
 After six years of living in a small apartment in a mostly solitary existence
 my life is about to radically change.
 
