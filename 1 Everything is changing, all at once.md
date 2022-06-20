@@ -15,7 +15,7 @@ On July 30th and 31st I'll run two back-to-back marathons in Mullingar, County
 Westmeath at [the Celtic Warrior](https://celticwarrior.ie/). I don't plan to
 film this, but maybe I'll journal about my training.
 
-In August, I start a nine month tech boot camp on WAS. These nine months will be
+In August, I start a nine month tech boot camp on AWS. These nine months will be
 the culmination of five years of self-study on functional programming, computer
 science, DevOps, Linux, and problem solving. I hope to capture some valuable
 lessons. Hopefully I'll make some nerdy friends along the way. At the end, I'll
