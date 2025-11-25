@@ -4,6 +4,11 @@
 
 Fretboard Composer Pro: [https://fretboard-composer-pro-330354285234.us-west1.run.app/](https://fretboard-composer-pro-330354285234.us-west1.run.app/)
 
+<video controls width="640">
+	<source src="https://occular-wingblow-orange-hammer.s3.us-east-1.amazonaws.com/fretboard-composer-pro.webm" type="video/webm">
+	<p>Your browser does not support the video tag. You can <a href="https://occular-wingblow-orange-hammer.s3.us-east-1.amazonaws.com/fretboard-composer-pro.webm">download the preview</a> instead.</p>
+</video>
+
 I've had an off-and-on love for guitar for over twelve years.
 
 For the last five, I threw myself into DevOps and cloud systems administration instead: tiny apartments, AWS tutorials on double speed, chasing certifications, and babysitting fleets of Linux boxes and managed services. My world was terminals, networks, and infrastructure-as-code. I'd never touched front-end work in any serious way. My guitar sat in the corner, quietly gathering dust while I debugged Terraform plans and CI pipelines.
