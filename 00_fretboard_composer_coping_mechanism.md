@@ -2,7 +2,7 @@
 
 ...and now I can't really finish it until I learn to read music 
 
-Fretboard Composer Pro: https://fretboard-composer-pro-330354285234.us-west1.run.app/
+Fretboard Composer Pro: [https://fretboard-composer-pro-330354285234.us-west1.run.app/](https://fretboard-composer-pro-330354285234.us-west1.run.app/)
 
 I've had an off-and-on love for guitar for over twelve years.
 
@@ -52,8 +52,7 @@ Three weeks later, I had something that looked suspiciously like a professional 
 
 It wasn't pretty from a software quality point of view, but the architecture was surprisingly not horrible, and it solved my very specific problem frighteningly well.
 
-And because this isn't just a thought experiment: you can actually try it in your browser here -
-Fretboard Composer Pro: https://fretboard-composer-pro-330354285234.us-west1.run.app/
+And because this isn't just a thought experiment: you can actually try it in your browser here — [Fretboard Composer Pro](https://fretboard-composer-pro-330354285234.us-west1.run.app/)
 
 ## What I ended up building
 
@@ -101,4 +100,4 @@ I don't know yet whether this project will turn into a portfolio project that wi
 
 And the bartenders who moonlight as muscianas in Carrboro seem to like it, too. And, maybe, my experiment can help you read music. It's the only thing out there that acknowledges that you can play a pitch in up to 5 different places on the neck and actually suggests where to play it.
 
-If you're curious, you can poke at the live app here: https://fretboard-composer-pro-330354285234.us-west1.run.app/
+If you're curious, you can poke at the live app here: [Fretboard Composer Pro](https://fretboard-composer-pro-330354285234.us-west1.run.app/)
