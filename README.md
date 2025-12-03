@@ -5,3 +5,4 @@ This is my personal blog. It riffs on themes such as advanced technology problem
 ## Posts
 
 - [I Built a Music Composition Tool in Three Weeks to Learn A Song](00_fretboard_composer_coping_mechanism.md)
+- [I had a weird day](02_weird_day.md)
