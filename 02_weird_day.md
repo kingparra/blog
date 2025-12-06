@@ -34,11 +34,11 @@ Jase said she didn’t have one on her and she could check with the bar if he ca
 
 Eventually, I started playing, and after a while the man (who I’ll refer to as “Friend” for now), asked to use my phone again. I let him. He placed a call that went straight to voicemail. Then he called again twice before handing me back the phone. It turns out, Friend was unhoused and taking shelter in the parking complex down the street. He looked scared, and asked several people if they had a place he could stay tonight.
 
-Several people told him no. He pleaded with them. I remembered my empty apartment, how I stay up most of the night anyways, and had a pang of guilt. I saw rainclouds starting to form, just barely visible in the night sky. It was freezing. I offered to let him stay the night at my place. He looked afraid and asked several other people if they’d help before accepting my offer. I said “are you OK, you look scared?” I decided to pick up the uhaul van tomorrow afternoon. 
+Several people told him no. He pleaded with them. I remembered my empty apartment, how I stay up most of the night anyways, and had a pang of guilt. I saw rainclouds starting to form, just barely visible in the night sky. It was freezing. I offered to let him stay the night at my place. He looked afraid and asked several other people if they’d help before accepting my offer. I said “are you OK, you look scared?” I decided to pick up the U-Haul van tomorrow afternoon. 
 
 Friend eventually hopped in my car and we went to my apartment. I made some small talk, asking him what he’s excited about in life, and where he could go if he had the resources to travel anywhere in the world. We were getting along. He made a few sex jokes in the car, and I told him I’d kick him out of the car if he mentions sex one more time.
 
-We got to my place and I showed him around, which took less than a minute because the place is so small. I told him to feel free to use the bed and that he can close the door. We chatted in the living room and then he put his hand in his pants right in front of me. “What the fuck are you doing?” I asked. He said he was scratching his leg. I told him that if doesn't zip his pants up and stop mentioning sex I'll throw him out even if it means kicking his ass. I mentioned that I was a rape survivor and that I was sensitive about the topic and he was scaring me. I got my glock ready from the trunk of my car downstairs while he used the bathroom, put it in the center console, locked the car, and hoped I would never have to use it.
+We got to my place and I showed him around, which took less than a minute because the place is so small. I told him to feel free to use the bed and that he can close the door. We chatted in the living room and then he put his hand in his pants right in front of me. “What the fuck are you doing?” I asked. He said he was scratching his leg. I told him that if he doesn't zip his pants up and stop mentioning sex I'll throw him out even if it means kicking his ass. I mentioned that I was a rape survivor and that I was sensitive about the topic and he was scaring me. I got my glock ready from the trunk of my car downstairs while he used the bathroom, put it in the center console, locked the car, and hoped I would never have to use it.
 
 Eventually he calmed down. We started chatting about life. He asked me why I let him stay here. Then said he felt scared. I told him I wouldn't harm him and that he's welcome to stay, but he can leave if he wants. I'd even drive him anywhere in town. We talked about his situation. He was worried that his mother and sister had been abducted by a drug dealer. I asked a few questions and tried to empathize with what he was going through. He talked about his family with love. Mentioned his daughter's hobbies. He went to the bedroom and closed the door. I worked on my IT projects and softly played guitar in the kitchen for a few hours.
 
@@ -48,27 +48,11 @@ Gulp. Had I just let someone with psychosis into my house? We talked a while, I 
 
 I worked until 7am on my laptop. He didn't sleep. It was raining hard during the night and the wind was blowing. At least he's warm, I thought. After that, he pleaded for me to let him stay there and I had to tell him no. We went to Wendy's and got breakfast. I searched for a shelter but couldn't find one. We went back to the parking complex of the library where he was squatting so he could stay out of the rain. I gave him my favorite fuzzy blanket that I had in the car and cried. Eventually I left, feeling both heartbroken and a little proud that I had the sense of self security to help how I did, wondering what's next for this person in pain.
 
-I went back to the apartment and slept for four hours, and now I'm at a cafe writing this and going through a list of missed calls. Life is strange, but people are beautiful.
+I went back to the apartment and slept for four hours, and now I'm at a cafe writing this and going through a list of missed calls.
 
-----
+As the dust settled a little, my brain went back to the lesson with Maurice. I realized that both Your Call and this little power chord progression I’d shown him earlier in the day had something in common: the open strings were acting like pedal tones, adding tension, suspension, or release depending on what the bass was doing underneath them.
 
-PS: I emailed Maurice, and told him that I wrote about his lesson in my blog. I sent him a link and asked for clarifications. I also mentioned that few musically inclined friends I know were asking for his contact info. His reply:
-
-> Yes, of course you can [link to my site], Evie. I am ever so grateful to you. I am absolutely a horrible self-promoter, and not computer-savvy in the least. I am so hands-on, old school and an anachronism in general. Born in the wrong decade, or wrong century even.. Thank you so much. COVID and the pandemonium that followed almost sank me. It was like taking 3 torpedoes in the starboard side, and I haven't been able to right the ship ever since. I am still listing heavily toward port. Anything you do to help me would be SO greatly appreciated., I'll go proofread what you have written so far, and get straight back to you with any corrections if necessary. I am touched by your thoughtfulness, caring, and kindness for me.
-
-He even gave me several clarifications, including this one :D
-
-> 1) 'Maurice lived in an old white millhouse style building.' I am still living.
-
-..and then even remembered the exact chord progressions we talked about:
-
-> PS, The chord names we discussed are: E5 -> D6/9 -> CMaj7 -> B5add11.
-
-What a class act. You can find him here: [https://mauricebalkmusic.com/](https://mauricebalkmusic.com/).
-
-After reflecting on the lesson a bit more, I realized that both Your Call and my chord progression had something in common: the open strings acted as pedal tones, adding tension, suspension, or release relative to each chord in the progression that overlaid them. The harmonizations he showed me were also a way to think about how to voice chords relative to a tonal center, which is what I was doing intuitively when I wrote my chord progression.
-
-In the progression I wrote, the two open strings, b and e, ring through every chord in the progression, but their meaning keeps shifting as the bass line descends beneath them.
+In the progression I played for Maurice and at open mic (E5 → D6/9 → Cmaj7 → B5add11), the two open strings, b and e, ring through every chord in the progression, but their meaning keeps shifting as the bass line descends beneath them.
 
 Over the E5, they're home. The E is the root, the B is the fifth. Stable, grounded, the sound of a power chord at rest.
 
@@ -81,3 +65,20 @@ And then the bass lands on B (from B5add11), and something strange happens. The 
 That's why the progression doesn't land cleanly. One voice finds home exactly as the other drifts into open sky. It feels finished and unfinished at the same time-- like a sentence that ends mid-breath, or a door left slightly ajar.
 
 Just like my day.
+
+----
+
+PS: I emailed Maurice, and told him that I wrote about his lesson in my blog. I sent him a link and asked for clarifications. I also mentioned that a few musically inclined friends I know were asking for his contact info. His reply:
+
+> Yes, of course you can [link to my site], Evie. I am ever so grateful to you. I am absolutely a horrible self-promoter, and not computer-savvy in the least. I am so hands-on, old school and an anachronism in general. Born in the wrong decade, or wrong century even.. Thank you so much. COVID and the pandemonium that followed almost sank me. It was like taking 3 torpedoes in the starboard side, and I haven't been able to right the ship ever since. I am still listing heavily toward port. Anything you do to help me would be SO greatly appreciated. I'll go proofread what you have written so far, and get straight back to you with any corrections if necessary. I am touched by your thoughtfulness, caring, and kindness for me.
+
+He even gave me several clarifications, including this one :D
+
+> 1) 'Maurice lived in an old white millhouse style building.' I am still living.
+
+..and then even remembered the exact chord progressions we talked about:
+
+> PS, The chord names we discussed are: E5 -> D6/9 -> CMaj7 -> B5add11.
+
+What a class act. You can find him here: [https://mauricebalkmusic.com/](https://mauricebalkmusic.com/).
+
