@@ -17,7 +17,7 @@ Your brief touch doesn't create anything permanent—it sets up the initial cond
 
 ## What makes a harmony sound consonant or dissonant?
 
-When notes with simple frequency ratios, like 5:4, their overtones align well and they sound blended. This is consonance. When notes have complex frequency ratios, like 45:32, their partials clash more, creating dissonance: tension, roughness or instability.
+When notes with simple frequency ratios, like 4:5, their overtones align well and they sound blended. This is consonance. When notes have complex frequency ratios, like 32:45, their partials clash more, creating dissonance: tension, roughness or instability. The ratios are formattted like this `lower_freq:upper_freq`.
 
 # What do they call that feeling of "back-and-forth" between two notes in a harmony? Like a minor has a faster back-and-forth than a major to me. Do you know what I mean?
 
