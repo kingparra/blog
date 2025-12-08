@@ -2,7 +2,9 @@
 
 ...and now I can't really finish it until I learn to read music 
 
-Fretboard Composer Pro: [https://fretboard-composer-pro-330354285234.us-west1.run.app/](https://fretboard-composer-pro-330354285234.us-west1.run.app/)
+[Fretboard Composer Pro](https://fretboard.kingparra.work)
+
+<br/>
 
 <style>
   .video-responsive {
@@ -17,6 +19,8 @@ Fretboard Composer Pro: [https://fretboard-composer-pro-330354285234.us-west1.ru
 	<source src="https://occular-wingblow-orange-hammer.s3.us-east-1.amazonaws.com/fretboard-composer-pro.webm" type="video/webm">
 	<p>Your browser does not support the video tag. You can <a href="https://occular-wingblow-orange-hammer.s3.us-east-1.amazonaws.com/fretboard-composer-pro.webm">download the preview</a> instead.</p>
 </video>
+
+<br/>
 
 I've had an off-and-on love for guitar for over twelve years.
 
