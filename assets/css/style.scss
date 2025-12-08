@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Overpass + responsive typography, etc. */
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;600;700&display=swap");
+
+:root {
+  --content-max-width: 60rem;
+  --content-padding-inline: 5vw;
+}
+
+body {
+  font-family: "Overpass", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: clamp(1.1rem, 1rem + 0.5vw, 1.5rem);
+  line-height: 1.7;
+  background: #fafafa;
+  color: #222;
+  margin: 0;
+}
+
+.main-content,
+.wrapper,
+.page-content,
+.post-content {
+  max-width: min(var(--content-max-width), 100vw - 2 * var(--content-padding-inline));
+  margin-left: auto;
+  margin-right: auto;
+  padding-block: 2rem;
+  padding-inline: var(--content-padding-inline);
+}
+
+h1 {
+  font-size: clamp(1.8rem, 1.4rem + 1vw, 2.4rem);
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: clamp(1.5rem, 1.2rem + 0.6vw, 2rem);
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 0.08em solid rgba(0, 0, 0, 0.15);
+}
+
+a:hover {
+  border-bottom-color: rgba(0, 0, 0, 0.4);
+}
