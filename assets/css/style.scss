@@ -11,6 +11,10 @@
   --content-padding-inline: 5vw;
 }
 
+h1 {
+  color: red !important;
+}
+
 body {
   font-family: "Overpass", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: clamp(1.1rem, 1rem + 0.5vw, 1.5rem);
