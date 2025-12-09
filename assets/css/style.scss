@@ -8,13 +8,13 @@
 body {
   font-family: "Overpass", system-ui, sans-serif;
 
-  /* Your preferred comfortable size on a 4k laptop */
-  font-size: 2rem;  /* ~32px */
-  line-height: 1.75;
+  /* Comfortable size on your 4k laptop */
+  font-size: 2rem;   /* ~32px */
+  line-height: 1.8;
 
-  /* LIGHT, NON-BLINDING THEME */
-  background: #f5f2eb;   /* warm off-white, easy on OLED */
-  color: #2a2a2a;        /* soft dark gray text */
+  /* YOUR NEW LIGHT THEME (gentle, non-blinding) */
+  background: #dcdad6;   /* the color you liked */
+  color: #222;           /* soft dark gray */
 
   margin: 0;
   padding: 0;
@@ -23,14 +23,14 @@ body {
 /* Larger screens (big monitors / 5k / ultrawide) */
 @media (min-width: 80rem) {
   body {
-    font-size: 2.25rem; /* ~36px */
+    font-size: 2.25rem;  /* ~36px */
   }
 }
 
 /* Phones / small tablets */
 @media (max-width: 40rem) {
   body {
-    font-size: 1.3rem; /* readable on small screens */
+    font-size: 1.3rem;   /* ~21px */
   }
 }
 
@@ -61,27 +61,22 @@ h1, h2, h3, h4 {
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  color: #1f1f1f;  /* darker but not harsh */
+  color: #111;   /* darker headings for clarity */
 }
 
-h1 {
-  font-size: 1.4em;
-}
-
-h2 {
-  font-size: 1.2em;
-}
+h1 { font-size: 1.4em; }
+h2 { font-size: 1.2em; }
 
 /* LINKS */
 a {
-  color: #3b6ea8; /* soft blue */
+  color: #3b628f;   /* soft medium blue */
   text-decoration: none;
-  border-bottom: 0.1em solid rgba(0, 0, 0, 0.15);
+  border-bottom: 0.1em solid rgba(0, 0, 0, 0.2);
 }
 
 a:hover {
-  color: #1f4e88;  /* deeper blue */
-  border-bottom-color: rgba(0, 0, 0, 0.3);
+  color: #2a4a72;
+  border-bottom-color: rgba(0, 0, 0, 0.35);
 }
 
 /* PARAGRAPHS */
@@ -89,13 +84,13 @@ p {
   margin-bottom: 1.5rem;
 }
 
-/* LIST SPACING */
+/* LISTS */
 ul, ol {
   margin-bottom: 1.5rem;
   padding-left: 1.5rem;
 }
 
-/* IMAGES + VIDEOS */
+/* MEDIA */
 img, video {
   max-width: 100%;
   height: auto;
