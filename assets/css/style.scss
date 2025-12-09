@@ -1,70 +1,80 @@
 ---
 ---
 
+/* Load Overpass font */
 @import url("https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;600;700&display=swap");
 
-/* Layout knobs */
-:root {
-  --content-max-width: 60rem;   /* max width of the reading column */
-  --content-padding-inline: 5vw; /* side padding, relative to viewport */
-}
-
-/* Base typography (phones / small screens) */
+/* GLOBAL TYPOGRAPHY */
 body {
   font-family: "Overpass", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 1.15rem;   /* start a bit bigger than browser default */
-  line-height: 1.7;
+
+  /* base font size for laptops & normal displays */
+  font-size: 1.25rem;
+  line-height: 1.75;
+
   background: #fafafa;
   color: #222;
   margin: 0;
+  padding: 0;
 }
 
-/* Medium screens: laptops / normal desktops */
-@media (min-width: 48rem) {
-  body {
-    font-size: 1.3rem;
-  }
-}
-
-/* Big screens: large monitors / 5k */
+/* Larger font size on huge screens (5k, UW monitors) */
 @media (min-width: 80rem) {
   body {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
 }
 
-/* Center the main content column */
-.main-content,
-.wrapper,
-.page-content,
-.post-content {
-  max-width: var(--content-max-width);
-  margin-left: auto;
-  margin-right: auto;
-  padding-block: 2rem;
-  padding-inline: var(--content-padding-inline);
+/* CONTENT WRAPPER */
+.content {
+  max-width: 60rem;     /* ~960px, very readable */
+  margin: 4rem auto;    /* center the column with breathing room */
+  padding: 0 2rem;      /* safe space on mobile */
 }
 
-/* On very narrow screens, don’t let the padding eat all the width */
-@media (max-width: 30rem) {
-  .main-content,
-  .wrapper,
-  .page-content,
-  .post-content {
-    padding-inline: 1.5rem;
-  }
-}
-
-/* Optional: small polish on headings and links */
+/* HEADINGS */
 h1, h2, h3, h4 {
   font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
+@media (min-width: 80rem) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
+
+/* LINKS */
 a {
+  color: #0645ad;
   text-decoration: none;
-  border-bottom: 0.08em solid rgba(0, 0, 0, 0.15);
+  border-bottom: 0.1em solid rgba(0, 0, 0, 0.2);
 }
 
 a:hover {
-  border-bottom-color: rgba(0, 0, 0, 0.4);
+  border-bottom-color: rgba(0, 0, 0, 0.5);
+}
+
+/* LIST SPACING */
+ul, ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* PARAGRAPH SPACING */
+p {
+  margin-bottom: 1.5rem;
+}
+
+/* VIDEOS, IMAGES (RESPONSIVE) */
+video, img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem 0;
 }
