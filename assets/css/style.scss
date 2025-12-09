@@ -4,16 +4,18 @@
 /* Load Overpass font */
 @import url("https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;600;700&display=swap");
 
-/* GLOBAL TYPOGRAPHY */
+/* GLOBAL TYPOGRAPHY + COLOR THEME */
 body {
   font-family: "Overpass", system-ui, sans-serif;
 
-  /* Comfortable size on a 4k laptop */
-  font-size: 2rem;     /* ~32px */
-  line-height: 1.8;
+  /* Your preferred comfortable size on a 4k laptop */
+  font-size: 2rem;  /* ~32px */
+  line-height: 1.75;
 
-  background: #fafafa;
-  color: #222;
+  /* LIGHT, NON-BLINDING THEME */
+  background: #f5f2eb;   /* warm off-white, easy on OLED */
+  color: #2a2a2a;        /* soft dark gray text */
+
   margin: 0;
   padding: 0;
 }
@@ -21,22 +23,37 @@ body {
 /* Larger screens (big monitors / 5k / ultrawide) */
 @media (min-width: 80rem) {
   body {
-    font-size: 2.25rem;   /* ~36px */
+    font-size: 2.25rem; /* ~36px */
   }
 }
 
 /* Phones / small tablets */
 @media (max-width: 40rem) {
   body {
-    font-size: 1.3rem;    /* ~21px */
+    font-size: 1.3rem; /* readable on small screens */
   }
 }
 
 /* CONTENT WRAPPER */
 .content {
-  max-width: 60rem;       /* readable centered column */
+  max-width: 60rem;
   margin: 4rem auto;
   padding: 0 2rem;
+}
+
+/* NAVIGATION */
+.top-nav {
+  margin-bottom: 2rem;
+}
+
+.top-nav a {
+  font-size: 0.8em;
+  color: #666;
+  text-decoration: none;
+}
+
+.top-nav a:hover {
+  color: #000;
 }
 
 /* HEADINGS */
@@ -44,10 +61,11 @@ h1, h2, h3, h4 {
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  color: #1f1f1f;  /* darker but not harsh */
 }
 
 h1 {
-  font-size: 1.4em;       /* scales with body */
+  font-size: 1.4em;
 }
 
 h2 {
@@ -56,16 +74,17 @@ h2 {
 
 /* LINKS */
 a {
-  color: #0645ad;
+  color: #3b6ea8; /* soft blue */
   text-decoration: none;
-  border-bottom: 0.1em solid rgba(0, 0, 0, 0.2);
+  border-bottom: 0.1em solid rgba(0, 0, 0, 0.15);
 }
 
 a:hover {
-  border-bottom-color: rgba(0, 0, 0, 0.5);
+  color: #1f4e88;  /* deeper blue */
+  border-bottom-color: rgba(0, 0, 0, 0.3);
 }
 
-/* PARAGRAPH SPACING */
+/* PARAGRAPHS */
 p {
   margin-bottom: 1.5rem;
 }
@@ -76,10 +95,11 @@ ul, ol {
   padding-left: 1.5rem;
 }
 
-/* IMAGES + VIDEOS (RESPONSIVE) */
+/* IMAGES + VIDEOS */
 img, video {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 2rem 0;
+  border-radius: 0.25rem;
 }
