@@ -27,12 +27,20 @@ The 3rd defeines whether a chord is major or minor, and the 7th adds color and d
 
 ## How do you count intervals?
 
-An octave is 8 notes (C to C). A 9th is one not# Reflecting on harmony
-
-Here are just a few notes and questions from my guitar lesson and practice that I've been reflecting on lately. I want to understand everything he said to the bones.
+An octave is 8 notes (C to C). A 9th is one note above an octave (C to D). A 10th is two notes above an octave (C to E), and so on.
 
 
-# What do they call that feeling of "back-and-forth" between two notes in a harmony? Like a minor has a faster back-and-forth than a major to me. Do you know what I mean?
+## Why do notes repeat in a cycle?
+
+Why don't we have new, unique sounds as you ascend higher and higher in pitch?
+
+One part of this is that the brain perceives the characteristic of a "note" (a sound such a C, regardless of its pitch) based on the ratio between its fundamental frequency and its overtones. One interesting observation when you consider only pitch is that as you move from left to right on a piano, each pitch doesn't increase in a straight line, but rather a curve. What remain the same is the percent increase. The relationship between pitch perception and frequency is logarithmic.
+
+More [here](https://pressbooks.pub/sound/chapter/pitch-and-frequency-in-music/).
+
+## What is beating?
+
+For example, a minor has a faster back-and-forth than a major to me. Do you know what I mean?
 
 Two waves with slightly different frequencies continuously drift through different phase relationships. When they're in phase (peaks aligned), you hear louder sound. When they're out of phase (peaks opposing), you hear quieter sound. This cycle repeats, creating the pulsing "beating" effect.
 
@@ -52,23 +60,23 @@ Timbre (pronounced TAM-ber) is the quality that makes instruments sound differen
 
 Recently I've been trying to cook up the perfect blend of exercises for my practice routine, but in the end I decided that I don't need to focus on technique, I need to focus on expression. And, in the process of expression, I will naturally gain technique.
 
-1. Try to tell a story. Pick a story and use what you know to communicate it as best you can.
+- Try to tell a story. Pick a story and use what you know to communicate it as best you can.
 
-2. Practice dynamics: time, volume, pitch, spread vs condense.
+- Practice dynamics: time, volume, pitch, spread vs condense.
 
-3. Learn songs (or other existing music).
+- Learn songs (or other existing music).
 
-4. Experiment with treating each string on the guitar as a separate voice.
+- Experiment with treating each string on the guitar as a separate voice.
 
 
 ## What are some practice exercises that I should take away from my lesson with Maurice?
 
-1. Harmonzing scales with triads. (Use the diatonic arps feature of fretboard composer pro for this, but also check out Jens Larsen.)
+- Harmonzing scales with triads. (Use the diatonic arps feature of fretboard composer pro for this, but also check out Jens Larsen.)
 
-2. Identify the intervals in my chord progression (E5 -> D6/9 -> Cmaj7 -> B5add11) and identify what interval the open b and e strings create over each bass note. Write it down. Then learn to play that interval in different positions on the neck, and learn what it sounds like in other contexts. This is a way to learn "flavors".
+- Identify the intervals in my chord progression (E5 -> D6/9 -> Cmaj7 -> B5add11) and identify what interval the open b and e strings create over each bass note. Write it down. Then learn to play that interval in different positions on the neck, and learn what it sounds like in other contexts. This is a way to learn "flavors".
 
-3. Experiment with how many different vocal lines I can come up with over a pedal tone. Explore how different intervals creat different emotional colors. Whare are some colorful departures from just harmonizing using the root note at different octaves?
+- Experiment with how many different vocal lines I can come up with over a pedal tone. Explore how different intervals creat different emotional colors. Whare are some colorful departures from just harmonizing using the root note at different octaves?
 
-4. Experiment with learning the tablature that Maurice gave me.
+- Experiment with learning the tablature that Maurice gave me.
 
-5. Analyze the harmony of my church songs.
+- Analyze the harmony of my church songs.
