@@ -4,13 +4,21 @@ It's been a few weeks since I wrote my first blog post and released Fretboard Co
 
 Since the laset blog post, I've been in a loop of ignoring school, learning music notation, rewriting the composer in the app, and learning songs. I started a YouTube channel with my practice sessions which you can view [here](https://youtube.com/@kingparrac?si=8oo_adxVAckfEAZ3).
 
-I'm still working on Your Call and Lover, You Should've Come Over, but it's not fully baked yet. I've decided to just play what I can to keep momentum and not trap myself with perfectionism.
+The process of building the app has been really interesting. In Google AI Studio the agent is very tightly sandboxed, and also extremely reckless with it's changes. It doesn't have shell access, so real testing is impossible (it can't run the tests).
+
+Over the last three day, I gave the agent an extremely detailed spec that completely transforms the scale panel from static patterns to an advanced gallery of scale fragments with a complex system of constraints, and a new separate mode to specify traversal through it using an interval pattern language. The UI was inspired by the chords panel, as I told the agent to borrow from it conceptually. It completely blows my existing scale visualizations out of the water.
+
+But, after implementation, when I reviewed the rest of the app, I found that the agent had unintentionally coupled the behavior of the two panels, and ruined the functionality of both. It effectively broke the chords panel. Sometimes, it even deletes features wholesale, unless they're exhaustively documented. When I ask, it says it was trying to "simplify" the codebase. Oof.
+
+So, currently, I'm in a transition phase where I have to write thorough documentation for all the features so future work doesn't accidentally clobber what I've done so far. After that is done I can start to transition to a more professional development workflow using GitHub codespaces and an AI agent that has shell access, so I can run my tests. The interesting thing about this is that it's making me think more about how teams should communicate, and honestly improving my writing in the proces.
+
+In the musical part of my life, I'm still working on "Your Call" and "Lover, You Should've Come Over", but it's not fully baked yet. I've decided to just play what I can to keep momentum and not trap myself with perfectionism.
 
 One surprising thing is that most of my progress hasn't come from the advanced technique exercises that I built visualizations for in the app, or the advice that Maurice gave me about harmony, but from playing simple church songs, instead.
 
 The first song I learned was "Hallelujah! What a Savior!" written by Philip P. Bliss. Jason, the church leader, arranged it for guitar as a series of simple open chords with vocals in the midrange. It was presented to me as a google doc with lyrics and chords with a recording and no music notation. The simplicity was perfect. 
 
-It looked like this:
+I've included it here since I keep losing track of where I saved it, and will want to practice more in the future. Sorry about the length!
 
 ```
 Hallelujah What A Savior Chords 
@@ -36,7 +44,6 @@ In our place, condemned He stood
 He bought our freedom with His blood
        Em   D          Gsus2/D# G
 Hallel  -u - jah, what a Sav-    ior!
-
 
 [Chorus]
        F        C     G
@@ -64,7 +71,7 @@ Hallel  -u - jah, what a Sav-    ior!
 G  Gsus4/C  //  G  Gsus4/C
 ```
 
-Because it was a simple chord progression with vocal intended to be sung along with by the whole congregation, I didn't feel embarrased about singing it, even though I've never sang before that. And, more importantly, the homeowner and great friend Shelly gave me a lot of encouragement when she heard it. This turned out to be a great on-ramp to incorporating vocals into my playing.
+Because the song has a simple chord progression with vocals intended to be sung along with by the whole congregation, I didn't feel embarrased about singing it, even though I've never sang before that. And, more importantly, the homeowner and great friend Shelly gave me a lot of encouragement when she heard it. This turned out to be a great on-ramp to incorporating vocals into my playing.
 
 Since then, I've been singing a lot. Probalby the wrong way. My throat feels constricted when I try to reach high notes, and if I sing for too long my voice goes hoarse. One moment my voice is cear and bell-like and the next it sounds like an animal yelping. I've been very motivated to learn, not only because my songs have a huge vocal component, but also because I'm trying to femininze my voice in my transition to living as a woman.
 
